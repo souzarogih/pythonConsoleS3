@@ -8,6 +8,9 @@ integrado com AWS para gerenciar um Bucket S3.
 ```bash
 Biblioteca do S3
 $ pip install boto3
+
+$ pip install python-dotenv
+
 ```
 
 #### Links
